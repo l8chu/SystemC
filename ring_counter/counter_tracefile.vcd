@@ -1,0 +1,170 @@
+$date
+     Sep 12, 2013       12:24:12
+$end
+
+$version
+              SystemC 2.3.0-ASI --- Sep 10 2012 16:44:06
+$end
+
+$timescale
+     1 ps
+$end
+
+$scope module SystemC $end
+$var wire    1  aaa  clock       $end
+$var wire   32  aab  counting [31:0]  $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+1aaa
+b1 aab
+$end
+
+#10000
+0aaa
+
+#20000
+1aaa
+b10 aab
+
+#30000
+0aaa
+
+#40000
+1aaa
+b11 aab
+
+#50000
+0aaa
+
+#60000
+1aaa
+b100 aab
+
+#70000
+0aaa
+
+#80000
+1aaa
+b101 aab
+
+#90000
+0aaa
+
+#100000
+1aaa
+b110 aab
+
+#110000
+0aaa
+
+#120000
+1aaa
+b111 aab
+
+#130000
+0aaa
+
+#140000
+1aaa
+b1000 aab
+
+#150000
+0aaa
+
+#160000
+1aaa
+b1001 aab
+
+#170000
+0aaa
+
+#180000
+1aaa
+b1010 aab
+
+#190000
+0aaa
+
+#200000
+1aaa
+b1 aab
+
+#210000
+0aaa
+
+#220000
+1aaa
+b10 aab
+
+#230000
+0aaa
+
+#240000
+1aaa
+b11 aab
+
+#250000
+0aaa
+
+#260000
+1aaa
+b100 aab
+
+#270000
+0aaa
+
+#280000
+1aaa
+b101 aab
+
+#290000
+0aaa
+
+#300000
+1aaa
+b110 aab
+
+#310000
+0aaa
+
+#320000
+1aaa
+b111 aab
+
+#330000
+0aaa
+
+#340000
+1aaa
+b1000 aab
+
+#350000
+0aaa
+
+#360000
+1aaa
+b1001 aab
+
+#370000
+0aaa
+
+#380000
+1aaa
+b1010 aab
+
+#390000
+0aaa
+
+#400000
+1aaa
+b1 aab
+
+#410000
+0aaa
+
